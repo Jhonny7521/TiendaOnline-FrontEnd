@@ -1,4 +1,5 @@
 const BASE_URI = 'https://deploy-api-bsale.herokuapp.com/api/'; // Uri para conexión con el servidor servidor
+// const BASE_URI = 'http://127.0.0.1:5000/api/'; // Uri para conexión con el servidor servidor
 
 // Método que realiza la consulta a la api para obtener los datos según el endpoint.
 const queryToAPI = async (endPoint) => {

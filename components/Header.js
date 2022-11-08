@@ -6,8 +6,8 @@ const view = () =>{
   <div class="container-header">
     <div class="header">
       <a href="/" class="header-logo">
-        <img src="./img/bsale-logo.png" alt="logo de página" id="logoWeb"/>
-        BSale
+        <img src="./img/logo_n.png" alt="logo de página" id="logoWeb"/>
+        PStore
       </a>
       <form class="search-form">                
           <input class="search-input" type="text" name="input" placeholder="Ingrese producto a buscar">
