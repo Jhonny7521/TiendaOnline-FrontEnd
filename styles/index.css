@@ -52,7 +52,7 @@ body {
 
 .header .header-logo {
   width: 140px; 
-  height: 40px;
+  height: 60px;
   border-radius: 10%;
   display: flex;
   justify-content: space-between;
@@ -64,9 +64,10 @@ body {
 }
 
 .header .header-logo #logoWeb {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   border-radius: 20%;
+  margin-right: 10px;
 }
 
 .header .search-form{
